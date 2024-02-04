@@ -16,3 +16,7 @@ templates use template inheritance to reduce code and enhance efficiency
 
 virtualenv env
 env/scripts/activate
+pip install django
+django-admin startproject new
+python manage.py runserver
+python manage.py startapp new
