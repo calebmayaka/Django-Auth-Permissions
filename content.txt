@@ -7,3 +7,7 @@ django uses the MVT structure - Models, views anf templates.
 Urls are used to defien the path of user requests
 the urls are defined from the main projects urls file, then to the indivial app
 apps in django are individual parts or functionalities of a whole system. a django project can contain multiple apps
+
+settings.py in the main pproject directorry has to be configured with the apps when they are created.
+
+urls in the apps map to the view which contain functions that handle different views to be diplayed. 
