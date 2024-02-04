@@ -1,2 +1,3 @@
 django is a web framework for developing web applications. It uses python programming language.
 for you to use django you have to install python.
+a virtul environment has to be created in order to organise your ddependancies well.
