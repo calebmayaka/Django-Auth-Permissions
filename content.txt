@@ -11,3 +11,5 @@ apps in django are individual parts or functionalities of a whole system. a djan
 settings.py in the main pproject directorry has to be configured with the apps when they are created.
 
 urls in the apps map to the view which contain functions that handle different views to be diplayed. 
+they map to the templates
+templates use template inheritance to reduce code and enhance efficiency
