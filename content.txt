@@ -5,4 +5,4 @@ a virtual environemnt makesit eary to managee the dependancies of a project
 
 django uses the MVT structure - Models, views anf templates.
 Urls are used to defien the path of user requests
-the urls are defined from the main projects urls file
+the urls are defined from the main projects urls file, then to the indivial app
