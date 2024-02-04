@@ -13,3 +13,6 @@ settings.py in the main pproject directorry has to be configured with the apps w
 urls in the apps map to the view which contain functions that handle different views to be diplayed. 
 they map to the templates
 templates use template inheritance to reduce code and enhance efficiency
+
+virtualenv env
+env/scripts/activate
